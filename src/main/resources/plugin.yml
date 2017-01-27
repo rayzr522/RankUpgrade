@@ -1,0 +1,12 @@
+main: com.rayzr522.rankupgrade.RankUpgrade
+name: RankUpgrade
+version: 1.0.0
+description: A Bukkit plugin for making signs that let you rank up
+author: Rayzr522
+#depend: [CreativelyNamedLib]
+#commands:
+#  rankupgrade:
+#    description: RankUpgrade main command
+#    aliases: [alias1,alias2]
+#    usage: "/rankupgrade [command]"
+#    permission: RankUpgrade.main
