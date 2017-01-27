@@ -1,0 +1,37 @@
+prefix: "&8\u00bb&6 "
+
+command:
+  only-players: "&cOnly players can use this command!"
+  no-permission: "&cYou need the permission {0} to be able to use this"
+  reloaded: "The config files have been reloaded"
+  rank:
+    next: "You are currently &c{0}&6 and it will cost &c${2}&6 to upgrade to &c{1}"
+    top: "You are currently &c{0}&6, and there are no more ranks available"
+
+rank:
+  invalid: "&cThe rank '{0}' is invalid!"
+  cancelled: "Your rank upgrade has been cancelled"
+  failed:
+    not-enough-money: "&cYou don't have enough money to purchase this!"
+    already-have: "&cYou already have the rank '{0}'!"
+    require-higher: "&cYou must be a {0} before you can upgrade to {1}!"
+    no-more: "&cThere are no more upgrades available for {0}"
+  success: "You have upgraded from &c{0}&6 to &c{1}&6 for &c${2}&6"
+sign:
+  rank-color: "&4"
+  cost-prefix: "&7$"
+gui:
+  title: "&4Rank Upgrade"
+  accept:
+    name: "&a&lAccept"
+    lore: "&7&oPress this to rank up"
+  cancel:
+    name: "&c&lCancel"
+    lore: "&7&oPress this to cancel the purchase"
+  description:
+    # Placeholders for the following to variables are as follows
+    # - {0}: The name of the current rank
+    # - {1}: The name of the next rank
+    # - {2}: The cost to upgrade
+    name: "&e&lRank upgrade for &6{0}&e&l!"
+    lore: "&ePlease confirm that you would like to upgrade from {0} to {1} for &6${2}"

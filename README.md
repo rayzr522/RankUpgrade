@@ -1,4 +1,4 @@
 # RankUpgrade
-A Bukkit plugin for making signs that let you rank up
+A Bukkit plugin for ranking up in style!
 
 *Note: This README is a pre-generated stub*

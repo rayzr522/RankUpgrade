@@ -1,0 +1,5 @@
+# What text to put at the top of a sign
+placeholder: "[RankUpgrade]"
+# The fancy text to convert it to if it is a valid sign
+# WARNING: Changing this will break all existing signs!
+display-text: "&8beUpgrade Rank"

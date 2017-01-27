@@ -1,0 +1,6 @@
+Rank1:
+  next: "Rank2"
+  cost: 5000
+Rank2:
+  next: "Rank3"
+  cost: 10000
