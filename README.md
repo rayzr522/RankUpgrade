@@ -1,6 +1,8 @@
 # RankUpgrade
 A Bukkit plugin for ranking up in style! This plugin uses GroupManager and Vault, and allows you to configure upgrade-paths that cost in-game money.
 
+_This plugin was done as a request for the **HydrusPvP** server._
+
 #### [Downloads](https://github.com/Rayzr522/RankUpgrade/releases)
 
 ## Commands
